@@ -29,7 +29,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 ## ✅ Suivi de progression
 
 ### Semaine 1 — Fondamentaux & équipements
-- [ ] Jour 1 — Intro aux équipements réseau
+- [x ] Jour 1 — Intro aux équipements réseau
 - [ ] Jour 2 — Services et applications réseau
 - [ ] Jour 3 — DHCP
 - [ ] Jour 4 — DNS
@@ -87,4 +87,4 @@ Ce dépôt est ouvert à toute personne qui veut suivre le même parcours :
 
 ---
 
-*Challenge démarré le [DATE À COMPLÉTER] — Assane Faye*
+*Challenge démarré le [06/07/2026] — Assane Faye*
