@@ -12,7 +12,7 @@
 <!-- Exemple de structure attendue -->
 - Le modèle de Référence OSI (Open System Interconnexion)
 - Les équipements des couches 1, 2 et 3
-- Les équipents de sécurités et Optimisation (Pare-feu, IDS/IPS | Load Balancer)
+- Les équipents de sécurités et Optimisation (Pare-feu, IDS/IPS | Load Balancer, Serveur Proxy)
 
 ## 🤔 Ce qui a coincé
 - La partie VPN (Virtual Private Network )
