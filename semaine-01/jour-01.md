@@ -10,8 +10,8 @@
 
 ## 🧠 Ce que j'ai appris
 <!-- Exemple de structure attendue -->
-- Le modèle de Référence OSI (Open System Interconnexion)
-- Les équipements des couches 1, 2 et 3
+- Le modèle de Référence OSI (Open System Interconnexion) avec 7 couches
+- Les équipements des couches 1, 2 et 3 (Modem analogique & Hub | Switch & Wireless Access Point | Switch niveau 3 & Routeur)
 - Les équipents de sécurités et Optimisation (Pare-feu, IDS/IPS | Load Balancer, Serveur Proxy)
 
 ## 🤔 Ce qui a coincé
