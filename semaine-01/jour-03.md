@@ -13,7 +13,7 @@
 - Les fonctionnement DORA du DHCP(Discover - Offer - Request - Acknowlegment)
 - Le bail, la réservation d'IP, les Ports (67/68), plage d'adresse etc
 ## 🤔 Ce qui a coincé
-- Pratique tous a étét compris
+- Pratiquement tous a été compris
 ## 🛠️ Exercice pratique réalisé
 Schéma du processus DORA (Discover - Offer - Request - Acknowledge), fait de mémoire :
  

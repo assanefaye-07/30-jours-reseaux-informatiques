@@ -1,6 +1,6 @@
 # 🌐 30 Jours pour Maîtriser les Réseaux Informatiques
 
-![Progress](https://img.shields.io/badge/progression-2%2F30_jours-red)
+![Progress](https://img.shields.io/badge/progression-3%2F30_jours-red)
 ![Level](https://img.shields.io/badge/niveau-CompTIA%20Network%2B-blue)
 ![Status](https://img.shields.io/badge/statut-en%20cours-yellow)
 
@@ -31,7 +31,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 ### Semaine 1 — Fondamentaux & équipements
 - [x] Jour 1 — Intro aux équipements réseau
 - [x] Jour 2 — Services et applications réseau
-- [ ] Jour 3 — DHCP
+- [x] Jour 3 — DHCP
 - [ ] Jour 4 — DNS
 - [ ] Jour 5 — NAT
 - [ ] Jour 6 — Technologies WAN
