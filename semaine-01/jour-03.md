@@ -27,7 +27,7 @@ sequenceDiagram
     S->>C: 4. DHCP Acknowledge (ACK)
 ```
  
-Notes sur chaque étape (à compléter) :
+Notes sur chaque étape :
 1. Discover : La machine cliente lance un paquet DHCP discovery pour demander une adresse IP au serveur (Port 67)
 2. Offer : Le serveur répond avec DES offres d'IP avec paramètres réseaux (DHCP offer) sur le port 68/UDP
 3. Request : La machine client répond en choisit une offre
