@@ -33,7 +33,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 - [x] Jour 2 — Services et applications réseau
 - [x] Jour 3 — DHCP
 - [x] Jour 4 — DNS
-- [ ] Jour 5 — NAT
+- [x] Jour 5 — NAT
 - [ ] Jour 6 — Technologies WAN
 - [ ] Jour 7 — Révision & Quiz
 
