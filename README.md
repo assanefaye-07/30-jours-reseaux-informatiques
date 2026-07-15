@@ -1,6 +1,6 @@
 # 🌐 30 Jours pour Maîtriser les Réseaux Informatiques
 
-![Progress](https://img.shields.io/badge/progression-6%2F30_jours-red)
+![Progress](https://img.shields.io/badge/progression-7%2F30_jours-red)
 ![Level](https://img.shields.io/badge/niveau-CompTIA%20Network%2B-blue)
 ![Status](https://img.shields.io/badge/statut-en%20cours-yellow)
 
@@ -35,7 +35,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 - [x] Jour 4 — DNS
 - [x] Jour 5 — NAT
 - [x] Jour 6 — Technologies WAN
-- [ ] Jour 7 — Révision & Quiz
+- [x] Jour 7 — Révision & Quiz
 
 ### Semaine 2 — Câblage, topologies, adressage IP
 - [ ] Jour 8 — Câblage réseau
