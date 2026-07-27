@@ -40,7 +40,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 ### Semaine 2 — Câblage, topologies, adressage IP
 - [x] Jour 8 — Câblage réseau
 - [x] Jour 9 — Topologies & infrastructure
-- [ ] Jour 10 — IPv4 & subnetting
+- [x] Jour 10 — IPv4 & subnetting
 - [ ] Jour 11 — IPv6
 - [ ] Jour 12 — Concepts IP spéciaux & VLSM
 - [ ] Jour 13 — Routage (concepts & protocoles)
