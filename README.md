@@ -1,6 +1,6 @@
 # 🌐 30 Jours pour Maîtriser les Réseaux Informatiques
 
-![Progress](https://img.shields.io/badge/progression-10%2F30_jours-red)
+![Progress](https://img.shields.io/badge/progression-11%2F30_jours-red)
 ![Level](https://img.shields.io/badge/niveau-CompTIA%20Network%2B-blue)
 ![Status](https://img.shields.io/badge/statut-en%20cours-yellow)
 
@@ -41,7 +41,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 - [x] Jour 8 — Câblage réseau
 - [x] Jour 9 — Topologies & infrastructure
 - [x] Jour 10 — IPv4 & subnetting
-- [ ] Jour 11 — IPv6
+- [x] Jour 11 — IPv6
 - [ ] Jour 12 — Concepts IP spéciaux & VLSM
 - [ ] Jour 13 — Routage (concepts & protocoles)
 - [ ] Jour 14 — Révision & Quiz
