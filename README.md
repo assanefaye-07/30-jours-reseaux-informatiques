@@ -1,6 +1,6 @@
 # 🌐 30 Jours pour Maîtriser les Réseaux Informatiques
 
-![Progress](https://img.shields.io/badge/progression-14%2F30_jours-red)
+![Progress](https://img.shields.io/badge/progression-15%2F30_jours-red)
 ![Level](https://img.shields.io/badge/niveau-CompTIA%20Network%2B-blue)
 ![Status](https://img.shields.io/badge/statut-en%20cours-yellow)
 
@@ -47,7 +47,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 - [x] Jour 14 — Révision & Quiz
 
 ### Semaine 3 — Administration, virtualisation, monitoring
-- [ ] Jour 15 — Communications unifiées, virtualisation, SAN
+- [x] Jour 15 — Communications unifiées, virtualisation, SAN
 - [ ] Jour 16 — Cloud & implémentation réseau
 - [ ] Jour 17 — Monitoring réseau
 - [ ] Jour 18 — Gestion config & segmentation (VLAN)
