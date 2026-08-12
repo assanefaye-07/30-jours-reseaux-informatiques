@@ -1,6 +1,6 @@
 # 🌐 30 Jours pour Maîtriser les Réseaux Informatiques
 
-![Progress](https://img.shields.io/badge/progression-18%2F30_jours-red)
+![Progress](https://img.shields.io/badge/progression-19%2F30_jours-red)
 ![Level](https://img.shields.io/badge/niveau-CompTIA%20Network%2B-blue)
 ![Status](https://img.shields.io/badge/statut-en%20cours-yellow)
 
@@ -51,7 +51,7 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 - [x] Jour 16 — Cloud & implémentation réseau
 - [x] Jour 17 — Monitoring réseau
 - [x] Jour 18 — Gestion config & segmentation (VLAN)
-- [ ] Jour 19 — Patchs & configuration des switches
+- [x] Jour 19 — Patchs & configuration des switches
 - [ ] Jour 20 — Infrastructure WLAN
 - [ ] Jour 21 — Révision & TP (Packet Tracer/GNS3)
 
