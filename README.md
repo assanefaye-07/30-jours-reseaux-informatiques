@@ -52,8 +52,8 @@ Ce dépôt documente ma progression jour par jour : ce que j'apprends, ce qui co
 - [x] Jour 17 — Monitoring réseau
 - [x] Jour 18 — Gestion config & segmentation (VLAN)
 - [x] Jour 19 — Patchs & configuration des switches
-- [ ] Jour 20 — Infrastructure WLAN
-- [ ] Jour 21 — Révision & TP (Packet Tracer/GNS3)
+- [x] Jour 20 — Infrastructure WLAN
+- [x] Jour 21 — Révision & TP (Packet Tracer/GNS3)
 
 ### Semaine 4 — Sécurité réseau & dépannage
 - [ ] Jour 22 — Risques & vulnérabilités

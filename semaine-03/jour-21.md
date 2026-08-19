@@ -40,7 +40,12 @@ Semaine 3 complète : 2:59:01 → 4:53:17
 Rédige un paragraphe (5-6 phrases) qui explique, sans notes, comment un patch de sécurité identifié comme critique (par exemple sur un contrôleur WLAN) devrait être géré, de la détection à l'application — en citant le monitoring (Jour 17), la gestion de configuration (Jour 18), et le patch management (Jour 19).
  
 ```
-Lorsqu’un patch de sécurité critique est identifié sur un contrôleur WLAN, la première étape consiste à le détecter grâce au monitoring, qui permet de repérer rapidement les vulnérabilités ou alertes remontées par les systèmes de supervision. Ensuite, la gestion de configuration assure que l’inventaire des équipements est à jour et que l’on sait précisément quelles versions logicielles sont déployées, afin de cibler correctement les systèmes concernés. Vient alors le processus de patch management, où l’on évalue la criticité, planifie l’application du correctif et teste son impact potentiel sur la production. Une fois validé, le patch est appliqué de manière contrôlée, souvent en dehors des heures de pointe pour limiter les perturbations. Enfin, un suivi post-déploiement est réalisé via le monitoring pour vérifier que la faille est bien corrigée et que le système reste stable. Ce cycle garantit une réponse rapide et structurée face aux menaces critiques.
+Lorsqu’un patch de sécurité critique est identifié sur un contrôleur WLAN, la première étape consiste à le détecter grâce au monitoring, qui permet de repérer rapidement les vulnérabilités ou alertes remontées par les systèmes de supervision.
+Ensuite, la gestion de configuration assure que l’inventaire des équipements est à jour et que l’on sait précisément quelles versions logicielles sont déployées, afin de cibler correctement les systèmes concernés. 
+Vient alors le processus de patch management, où l’on évalue la criticité, planifie l’application du correctif et teste son impact potentiel sur la production.
+Une fois validé, le patch est appliqué de manière contrôlée, souvent en dehors des heures de pointe pour limiter les perturbations.
+ Enfin, un suivi post-déploiement est réalisé via le monitoring pour vérifier que la faille est bien corrigée et que le système reste stable.
+ Ce cycle garantit une réponse rapide et structurée face aux menaces critiques.
 ```
  
 ## Auto-évaluation de la semaine
